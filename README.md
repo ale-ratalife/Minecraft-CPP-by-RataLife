@@ -2,7 +2,7 @@
 
 Un motor de vóxeles y clon de Minecraft ligero y procedural, escrito desde cero en C++ puro usando la API de Win32 y OpenGL. 
 
-Desarrollado por RataLife (V. Alejandro Téllez / TwentyFox), MineCPP destaca por no depender de assets externos: todas las texturas del mundo se generan proceduralmente en tiempo de ejecución mediante algoritmos de ruido y matemáticas.
+Desarrollado por RataLife (Alejandro Téllez), MineCPP destaca por no depender de assets externos: todas las texturas del mundo se generan proceduralmente en tiempo de ejecución mediante algoritmos de ruido y matemáticas.
 
 ## Características Principales
 
@@ -53,4 +53,4 @@ El proyecto está diseñado para compilarse nativamente en Windows sin bibliotec
 
 ## Créditos
 
-Desarrollado por **V. Alejandro Téllez** (RataLife / TwentyFox).
+Desarrollado por **Alejandro Téllez** (RataLife).
