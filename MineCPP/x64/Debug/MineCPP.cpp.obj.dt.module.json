@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MineCPP\\x64\\Debug\\MineCPP.obj",
+            "outputs": [
+                "MineCPP\\x64\\Debug\\MineCPP.cpp.obj.dt.module.json",
+                "MineCPP\\x64\\Debug\\MineCPP.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

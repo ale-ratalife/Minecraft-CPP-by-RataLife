@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MineCPP\\x64\\Release\\Noise.obj",
+            "outputs": [
+                "MineCPP\\x64\\Release\\Noise.h.obj.dt.module.json",
+                "MineCPP\\x64\\Release\\Noise.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

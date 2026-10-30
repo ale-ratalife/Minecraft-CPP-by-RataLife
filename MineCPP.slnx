@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MineCPP.vcxproj" Id="729f73ee-249f-40db-a36e-83ac125f6362" />
+</Solution>

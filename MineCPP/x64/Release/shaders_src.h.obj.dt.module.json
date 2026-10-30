@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MineCPP\\x64\\Release\\shaders_src.obj",
+            "outputs": [
+                "MineCPP\\x64\\Release\\shaders_src.h.obj.dt.module.json",
+                "MineCPP\\x64\\Release\\shaders_src.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
